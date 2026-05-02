@@ -26,7 +26,13 @@ Usuario → [foto / audio / PDF / texto] → Talia → C.A.R.O.L. → n8n → Go
 ```env
 # .env.example
 TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+TELEGRAM_USER_ID=
+LLM_PROVIDER=openai
 OPENAI_API_KEY=
+OPENROUTER_API_KEY=
+OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+OPENROUTER_MODEL=openai/gpt-4o
 N8N_WEBHOOK_URL=https://tu-n8n.com/webhook/carol
 N8N_WEBHOOK_SECRET=
 TOPIC_ID=4

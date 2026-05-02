@@ -1,0 +1,15 @@
+[Unit]
+Description=Expense Manager Bot (Talia & C.A.R.O.L.)
+After=network.target
+
+[Service]
+Type=simple
+User=marco
+WorkingDirectory=/home/marco/Work/code/expense_manager
+EnvironmentFile=/home/marco/Work/code/expense_manager/.env
+ExecStart=/home/marco/Work/code/expense_manager/venv/bin/python main.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
