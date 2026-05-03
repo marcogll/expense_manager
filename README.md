@@ -1,4 +1,22 @@
-# 🤖 Talia & C.A.R.O.L.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_wh.png">
+    <img src="https://raw.githubusercontent.com/marcogll/mg_data_storage/b1b4035928e086f9394baf9988f80f4b0075ae20/soul23/logo/s23_logo_blk.png" alt="Soul23" width="110">
+  </picture>
+</p>
+
+<h1 align="center">expense_manager.git</h1>
+
+<p align="center">
+  > C.A.R.O.L. = Captura y Análisis de Recibos con Organización de Libros
+</p>
+
+<p align="center">
+  [![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/marcogll)
+  [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcogll)
+</p>
+
+
 ### Ecosistema Contable AI · Telegram Second Brain
 
 > **C.A.R.O.L.** = **C**aptura y **A**nálisis de **R**ecibos con **O**rganización de **L**ibros
