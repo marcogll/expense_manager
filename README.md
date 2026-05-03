@@ -1,21 +1,19 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://soul23.mx/logo/s23_logo_wh.png">
-    <img src="https://soul23.mx/logo/s23_logo_blk.png" alt="Soul23" width="110">
-  </picture>
+<div align="center">
+
+<img src="https://soul23.mx/logo/soul23_logo.svg" width="90" alt="Soul23">
+
+# Expense Manager
+
+Expense management system with AI receipt processing and Telegram integration 💰
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
 </p>
 
-<h1 align="center">expense_manager.git</h1>
+</div>
 
-<p align="center">
-  > C.A.R.O.L. = Captura y Análisis de Recibos con Organización de Libros
-</p>
-
-<p align="center">
-  [![OpenAI](https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/marcogll)
-  [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/marcogll)
-</p>
-
+---
 
 ### Ecosistema Contable AI · Telegram Second Brain
 
