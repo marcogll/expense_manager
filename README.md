@@ -7,17 +7,15 @@
 </picture>
 </a>
 
+</div>
+
 # Expense Manager
 
-Expense management system with AI receipt processing and Telegram integration 💰
+Sistema de gestión de gastos con procesamiento de IA 💰
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/website-111111?style=flat-square&logo=github&logoColor=white" alt="Website">
-  <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/español-111111?style=flat-square&logo=googletranslate&logoColor=white" alt="Español">
 </p>
-
-</div>
 
 ---
 
@@ -122,3 +120,4 @@ python main.py
 ---
 
 *Talia habla. C.A.R.O.L. trabaja. Tú solo envías el ticket.*
+
