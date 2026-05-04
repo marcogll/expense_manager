@@ -15,14 +15,6 @@
   <img src="https://img.shields.io/badge/Telegram-3a3a3a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
 </p>
 
-  Sistema de gestión de gastos con procesamiento de IA 💰
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-3a3a3a?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/OpenAI-3a3a3a?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Python-3a3a3a?style=flat-square&logo=python&logoColor=white" alt="Python">
-</p>
 
 ### Ecosistema Contable AI · Telegram Second Brain
 
